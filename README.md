@@ -7,6 +7,7 @@ Refonte d'un site d'événementiel et ajout d'une partie traiteur - Formulaire d
 Utilisation d'un template bootstrap, adapté aux besoins du client
 
 [Site actuel](http://www.klassevent.com/)
+
 [Démo video](https://www.loom.com/share/9c7e01c1a62646f8b05978713bbbfb83)
 
 ## Démonstration video
